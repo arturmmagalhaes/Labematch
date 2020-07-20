@@ -5,10 +5,9 @@
 http://labematch.arturmagalhaes.surge.sh/
 
 # Telas
-<p align="justify>
-  <img src="./src/assets/Labematch-principal.png" />
-  <img src="./src/assets/Labematch-matches.png" >
-</p>
+<img src="./src/assets/Labematch-principal.png" />
+<img src="./src/assets/Labematch-matches.png" >
+
                                                      
 # Tecnologias
   O projeto foi desenvolvido com ReactJS.
