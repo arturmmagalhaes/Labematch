@@ -5,7 +5,8 @@
 http://labematch.arturmagalhaes.surge.sh/
 
 # Telas
-<img src="https://img.shields.io/github/issues/arturmmagalhaes/Labematch" >
+<img src="assets/Labematch-principal" >
+
 # Tecnologias
   O projeto foi desenvolvido com ReactJS.
   - # Dependências
