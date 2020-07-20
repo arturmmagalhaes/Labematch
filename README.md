@@ -8,24 +8,24 @@ http://labematch.arturmagalhaes.surge.sh/
 
 # Tecnologias
   O projeto foi desenvolvido com ReactJS.
-  # Dependências
-  React Router DOM
-  Axios
-  Styled-components
-  Material-ui
+  - # Dependências
+    - React Router DOM
+    - Axios
+    - Styled-components
+    - Material-ui
 
 # Estrutura do projeto
-  O projeto foi dividido em duas páginas (Match e Matches).
-  Em Match aparecem as imagens dos usuários para dar ou não o match e se não houver mais usuários disponíveis no momento o sistema fica buscando até que um novo usuário seja adicionado ou que todos os matches sejam desfeitos.
-  Na página de Matches aparecem todos os usuários que deram match e é posível desfazer todos eles.
+  <p align="justify">O projeto foi dividido em duas páginas (Match e Matches).
+  <p align="justify">Em Match aparecem as imagens dos usuários para dar ou não o match e se não houver mais usuários disponíveis no momento o sistema fica buscando até que um novo usuário seja adicionado ou que todos os matches sejam desfeitos.
+  <p align="justify">Na página de Matches aparecem todos os usuários que deram match e é posível desfazer todos eles.
   
 # Como rodar o projeto
-  git clone 
-  cd 
-  npm install
-  npm run start
+  <p align="justify">git clone 
+  <p align="justify">cd 
+  <p align="justify">npm install
+  <p align="justify">npm run start
   
 # Como deployar o projeto
-  npm run build
-  surge ./build [url-desejada]
+  <p align="justify">npm run build
+  <p align="justify">surge ./build [url-desejada]
   
