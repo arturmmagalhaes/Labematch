@@ -6,7 +6,9 @@ http://labematch.arturmagalhaes.surge.sh/
 
 # Telas
 <img src="./src/assets/Labematch-principal.png" />
+<img src="./src/assets/Labematch-principal-vazio.png" />
 <img src="./src/assets/Labematch-matches.png" >
+<img src="./src/assets/Labematch-matches-vazio.png" >
 
                                                      
 # Tecnologias
@@ -24,14 +26,14 @@ http://labematch.arturmagalhaes.surge.sh/
   
 # Como rodar o projeto
 ```bash
-  git clone 
-  cd 
-  npm install
-  npm run start
+  $ git clone https://github.com/arturmmagalhaes/Labematch.git
+  $ cd Labematch
+  $ npm install
+  $ npm run start
  ```
 # Como deployar o projeto
   ```bash
-  npm run build
-  surge ./build [url-desejada]
+  $ npm run build
+  $ surge ./build [url-desejada]
   ```
   
