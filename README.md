@@ -20,12 +20,15 @@ http://labematch.arturmagalhaes.surge.sh/
   <p align="justify">Na página de Matches aparecem todos os usuários que deram match e é posível desfazer todos eles.
   
 # Como rodar o projeto
-  <p align="justify">git clone 
-  <p align="justify">cd 
-  <p align="justify">npm install
-  <p align="justify">npm run start
-  
+```bash
+  git clone 
+  cd 
+  npm install
+  npm run start
+ ```
 # Como deployar o projeto
-  <p align="justify">npm run build
-  <p align="justify">surge ./build [url-desejada]
+  ```bash
+  npm run build
+  surge ./build [url-desejada]
+  ```
   
