@@ -1,5 +1,5 @@
 # Labematch
-<p align="justify">Projeto para a Labenu baseado no tinder.
+<p align="justify">Projeto de Front-end para a Labenu baseado no tinder.
 
 - # Link
 http://labematch.arturmagalhaes.surge.sh/
