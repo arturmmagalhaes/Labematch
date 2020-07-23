@@ -32,8 +32,8 @@ http://labematch.arturmagalhaes.surge.sh/
   $ npm run start
  ```
 - # Como deployar o projeto
-  ```bash
+```bash
   $ npm run build
   $ surge ./build [url-desejada]
-  ```
+```
   
